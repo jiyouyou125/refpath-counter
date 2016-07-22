@@ -10,7 +10,7 @@ Hell if I know.
 
 ## Usage
 
-Get familiar with the (https://github.com/nathanmarz/cascalog)[Cascalog] and (https://github.com/technomancy/leiningen)[Leiningen].
+Get familiar with the [Cascalog](https://github.com/nathanmarz/cascalog) and [Leiningen](https://github.com/technomancy/leiningen).
 
 Once you've installed both, 
 
